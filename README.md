@@ -4,4 +4,5 @@
 Legenda: 
 
 Na imagem 1: Mostra o Decodificador funcionando!
-Na imagem 2: Mostra o desenvolvedor (No caso eu) e os links de meus perfis no Github e o LinkeDin!
+
+Na imagem 2: Mostra o desenvolvedor (No caso eu) e os links dos meus perfis no Github e o LinkeDin!
