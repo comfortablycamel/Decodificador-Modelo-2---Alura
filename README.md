@@ -9,4 +9,4 @@ Imagem 1: Mostra o Decodificador funcionando!
 
 Imagem 2: Mostra o desenvolvedor (No caso eu) e os links dos meus perfis no Github e o LinkedIn!
 
-Imagem 3: Descodificando a mensagem secreta do "Trello do desafio"
+Imagem 3: Decodificando a mensagem secreta do "Trello do desafio"
